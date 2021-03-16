@@ -1,0 +1,5 @@
+Liste <> mesFormes;
+for (int i=0; i < mesFormes.size()i; i++) {
+Systeme out (mesFormes. getAire());
+Systeme out (mesFormes. getPerimetre());
+}
